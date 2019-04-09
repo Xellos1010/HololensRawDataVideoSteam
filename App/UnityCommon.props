@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>HololensRawData</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\Unity Project\HololensRawData\App\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\Unity Project\HololensRawData\</UnityProjectDir>
+        <UnityWSAPlayerDir>D:\Program Files\Unity-2017-1-2\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
